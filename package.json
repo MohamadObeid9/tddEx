@@ -1,0 +1,21 @@
+{
+  "name": "tddex",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --watch main.test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MohamadObeid9/tddEx.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/MohamadObeid9/tddEx/issues"
+  },
+  "homepage": "https://github.com/MohamadObeid9/tddEx#readme"
+}
